@@ -2,7 +2,7 @@
 
 FROM registry.access.redhat.com/rhel7.1 
 
-MAINTAINER Glen M gmillard@redhat.com
+MAINTAINER Redhat
 
 # pub   2048R/24BD9545 2014-07-18 [expires: 2018-07-18] 
 #       Key fingerprint = 409E F88E 5386 FE7C 68FC  0B77 B795 92BE 24BD 9545 
